@@ -6,7 +6,7 @@
 
 Este repositório contém o código-fonte do servidor backend para o aplicativo móvel de e-commerce desenvolvido na disciplina de Desenvolvimento de Aplicativos Móveis e IOT (2025.1) do curso de Sistemas de Informação da UNIFACISA.
 
-**Este servidor fornece a API RESTful e os serviços de WebSocket necessários para o [projeto frontend correspondente (App Mobile E-Commerce)](Link-Para-O-Repositorio-Frontend-AQUI), que foi construído com React Native/Expo.**
+**Este servidor fornece a API RESTful e os serviços de WebSocket necessários para o [projeto frontend correspondente (App Mobile E-Commerce)](https://github.com/taavaresdiego/MinhaLojaApp), que foi construído com React Native/Expo.**
 
 O backend é construído com Node.js e Express, utilizando SQLite como banco de dados e fornece funcionalidades para autenticação de usuários, gerenciamento de produtos (leitura), criação de pedidos, e funcionalidades de chat (demonstração de IA com Gemini e chat live com Socket.IO).
 
