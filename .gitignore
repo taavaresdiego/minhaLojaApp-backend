@@ -1,0 +1,4 @@
+# Arquivo: .gitignore (do backend)
+/node_modules
+/database.db
+/.env
